@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwafemi or prefrably Femi
-- 👀 I’m interested in Front-end developmet and Software engineering
+- 👀 I’m interested in Front-end development and Software engineering
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me - femzyfrosh1@gmail.com
